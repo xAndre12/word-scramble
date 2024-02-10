@@ -10,24 +10,24 @@ let word;
 
 const words = [
     {
-        mixed: "RMA",
-        correct: "mar",
+        mixed: "OGD",
+        correct: "dog",
     },
     {
-        mixed: "INECA",
-        correct: "caine",
+        mixed: "GAWNO",
+        correct: "wagon",
     },
     {
-        mixed: "PALTE",
-        correct: "lapte",
+        mixed: "RAYE",
+        correct: "year",
     },
     {
-        mixed: "ISANMA",
-        correct: "masina",
+        mixed: "TNSE",
+        correct: "nest",
     },
     {
-        mixed: "OTTRIERCE",
-        correct: "teoretic",
+        mixed: "ARNBI",
+        correct: "brain",
     },
 ];
 
