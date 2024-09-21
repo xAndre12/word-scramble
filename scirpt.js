@@ -15,7 +15,7 @@ const words = [
     },
     {
         mixed: "GAWNO",
-        correct: "wagon",
+        correct: "wagom",
     },
     {
         mixed: "RAYE",
