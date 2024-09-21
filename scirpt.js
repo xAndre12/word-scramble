@@ -4,7 +4,7 @@ const mixedWord = document.querySelector(".word");
 const refresh = document.querySelector(".refresh");
 const check = document.querySelector(".check");
 const points = document.querySelector(".pointsspan")
-
+//done
 let countdownstart = true;
 let word;
 
